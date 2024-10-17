@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Adm-brewer\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1156626261.index
+1844644137.index
+0.index
+3320083010.index
+3140459781.index
+1498172701.index
+3076100366.index

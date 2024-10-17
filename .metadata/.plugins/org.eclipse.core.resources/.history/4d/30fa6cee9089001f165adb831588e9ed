@@ -1,0 +1,5 @@
+package br.com.adminfo.dto;
+
+public class CodigoProduto {
+
+}
